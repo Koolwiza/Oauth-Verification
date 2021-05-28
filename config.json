@@ -1,0 +1,9 @@
+{
+    "token":"",
+    "secret":"",
+    "id":"",
+    "guildId":"",
+    "verifyRole":"",
+    "redirectURI":"http://localhost",
+    "port":3000
+}
